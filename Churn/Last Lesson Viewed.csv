@@ -1,0 +1,248 @@
+part_rank,last seen position,churned_trial_users,churned_paid_users,active_paid_users
+1,Welcome to the Nanodegree::Welcome to the MLND Program::1,39,5,32
+1,Welcome to the Nanodegree::Welcome to the MLND program::1,716,149,61
+1,Welcome to the Nanodegree::Getting Started: From Artificial Intelligence to Machine Learning::2,547,124,53
+1,Welcome to the Nanodegree::What is Machine Learning?::2,33,2,14
+1,Welcome to the Nanodegree::MLND Program Orientation::3,124,24,39
+2,(Optional) Exploratory Project::Project Details::4,475,111,107
+3,Model Evaluation and Validation::Intro: Model Evaluation and Validation::5,66,17,17
+3,Model Evaluation and Validation::Prerequisites::6,27,13,6
+3,Model Evaluation and Validation::Measures of Central Tendency::7,93,30,34
+3,Model Evaluation and Validation::Variability of Data::8,54,25,45
+3,Model Evaluation and Validation::Numpy & Pandas Tutorials::9,72,37,46
+3,Model Evaluation and Validation::scikit-learn Tutorial::10,16,10,30
+3,Model Evaluation and Validation::Nature of Data::11,20,7,25
+3,Model Evaluation and Validation::Evaluation Metrics::11,17,6,4
+3,Model Evaluation and Validation::Causes of Error::12,17,14,19
+3,Model Evaluation and Validation::Datasets and Questions::12,33,18,46
+3,Model Evaluation and Validation::Nature of Data & Model Building::13,5,1,
+3,Model Evaluation and Validation::Training & Testing::13,8,13,14
+3,Model Evaluation and Validation::Evaluation Metrics::14,22,9,41
+3,Model Evaluation and Validation::Training & Testing::14,8,13,14
+3,Model Evaluation and Validation::Causes of Error::15,17,14,19
+3,Model Evaluation and Validation::Cross Validation::15,22,18,32
+3,Model Evaluation and Validation::Representative Power of a Model::16,13,2,7
+3,Model Evaluation and Validation::Learning Curves and Model Complexity::17,14,11,8
+3,Model Evaluation and Validation::Project Details::18,93,61,88
+3,Model Evaluation and Validation::Cross Validation::18,22,18,32
+3,Model Evaluation and Validation::Project Details::19,93,61,88
+4,Kaggle::Kaggle: Interview with Ben Hamner::19,26,8,12
+4,MEV::Training and Testing::20,,,
+4,Kaggle::Kaggle: Interview with Ben Hamner::20,26,8,12
+4,MEV::Classification Metrics::21,,,
+4,MEV::Regression Metrics::22,,,
+4,MEV::Classification Errors::24,,,
+4,MEV::Learning Curves::25,,,
+4,MEV::Cross Validation::26,,,
+5,Supervised Learning::Supervised Learning Intro::20,34,14,10
+5,Supervised Learning::Regression & Classification::21,19,16,29
+5,Supervised Learning::Supervised Learning Intro::21,34,14,10
+5,Supervised Learning::Regression & Classification::22,19,16,29
+5,Supervised Learning::Regressions::22,14,10,30
+5,Supervised Learning::More Regressions::23,13,11,22
+5,Supervised Learning::Regressions::23,14,10,30
+5,Supervised Learning::More Regressions::24,13,11,22
+5,Supervised Learning::Decision Trees::24,36,22,43
+5,Supervised Learning::More Decision Trees::25,11,15,32
+5,Supervised Learning::Decision Trees::25,36,22,43
+5,Supervised Learning::More Decision Trees::26,11,15,32
+5,Supervised Learning::Neural Networks::26,32,18,41
+5,Kaggle::Kaggle: Interview with Ben Hamner::27,26,8,12
+5,Supervised Learning::Neural Networks::27,32,18,41
+5,Supervised Learning::Neural Nets Mini-Project::27,12,20,57
+5,Supervised Learning::Kernel Methods & SVMs::28,19,11,21
+5,Supervised Learning::Neural Nets Mini-Project::28,12,20,57
+5,Supervised Learning::Kernel Methods & SVMs::29,19,11,21
+5,Supervised Learning::SVM::29,13,6,16
+5,Supervised Learning::Instance Based Learning::30,5,8,17
+5,Supervised Learning::SVM::30,13,6,16
+5,Supervised Learning::Naive Bayes::31,7,5,21
+5,Supervised Learning::Instance Based Learning::31,5,8,17
+5,Supervised Learning::Bayesian Learning::32,8,11,36
+5,Supervised Learning::Naive Bayes::32,7,5,21
+5,Supervised Learning::Bayesian Learning::33,8,11,36
+5,Supervised Learning::Bayesian Inference::33,10,6,19
+5,Supervised Learning::Bayes NLP Mini-Project::34,4,7,26
+5,Supervised Learning::Bayesian Inference::34,10,6,19
+5,Supervised Learning::Bayes NLP Mini-Project::35,4,7,26
+5,Supervised Learning::Ensemble B&B::35,8,14,80
+5,Supervised Learning::Ensemble B&B::36,8,14,80
+5,Supervised Learning::Project Details::36,33,34,21
+5,Supervised Learning::Project Details::37,1,,10
+5,Supervised Learning::Project Details::37,33,34,21
+6,Supervised Learning::Supervised Learning Intro::28,34,14,10
+6,Supervised Learning::Regression & Classification::29,19,16,29
+6,Supervised Learning::Regressions::30,14,10,30
+6,Supervised Learning::More Regressions::31,13,11,22
+6,Supervised Learning::Decision Trees::32,36,22,43
+6,Supervised Learning::More Decision Trees::33,11,15,32
+6,Supervised Learning::Neural Networks::34,32,18,41
+6,Supervised Learning::Neural Nets Mini-Project::35,12,20,57
+6,Supervised Learning::Kernel Methods & SVMs::36,19,11,21
+6,Supervised Learning::SVM::37,13,6,16
+6,Resume Review::Project Prep::37,23,10,35
+6,Supervised Learning::Instance Based Learning::38,5,8,17
+6,Resume Review::Project Prep::38,23,10,35
+6,Supervised Learning::Naive Bayes::39,7,5,21
+6,Supervised Learning::Bayesian Learning::40,8,11,36
+6,Supervised Learning::Bayesian Inference::41,10,6,19
+6,Supervised Learning::Bayes NLP Mini-Project::42,4,7,26
+6,Supervised Learning::Ensemble B&B::43,8,14,80
+6,Supervised Learning::Project Details::44,1,,10
+7,Cover Letter Review::Writing a Targeted Cover Letter::38,9,3,7
+7,Cover Letter Review::Project Prep::39,1,1,2
+7,Cover Letter Review::Writing a Targeted Cover Letter::39,9,3,7
+7,Cover Letter Review::Project Prep::40,1,1,2
+7,Resume Review::Project Prep::45,23,10,35
+8,Unsupervised Learning::Introduction to Unsupervised Learning::40,9,5,5
+8,Unsupervised Learning::Clustering::41,9,3,6
+8,Unsupervised Learning::Introduction to Unsupervised Learning::41,9,5,5
+8,Unsupervised Learning::Clustering::42,9,3,6
+8,Unsupervised Learning::More Clustering::42,6,7,34
+8,Unsupervised Learning::Clustering Mini-Project::43,3,3,10
+8,Unsupervised Learning::More Clustering::43,6,7,34
+8,Unsupervised Learning::Feature Scaling::44,3,2,7
+8,Unsupervised Learning::Clustering Mini-Project::44,3,3,10
+8,Unsupervised Learning::Feature Scaling::45,3,2,7
+8,Unsupervised Learning::Feature Selection::45,6,3,18
+8,Cover Letter Review::Writing a Targeted Cover Letter::46,9,3,7
+8,Unsupervised Learning::Feature Selection::46,6,3,18
+8,Unsupervised Learning::PCA::46,2,4,13
+8,Unsupervised Learning::PCA Mini-Project::47,3,2,8
+8,Cover Letter Review::Project Prep::47,1,1,2
+8,Unsupervised Learning::PCA::47,2,4,13
+8,Unsupervised Learning::PCA Mini-Project::48,3,2,8
+8,Unsupervised Learning::Feature Transformation::48,4,4,18
+8,Unsupervised Learning::Outro::49,1,,4
+8,Unsupervised Learning::Feature Transformation::49,4,4,18
+8,Unsupervised Learning::Outro::50,1,,4
+8,Unsupervised Learning::Project Details::50,16,16,70
+8,Unsupervised Learning::Project Details::51,16,16,70
+9,Unsupervised Learning::Introduction to Unsupervised Learning::48,9,5,5
+9,Unsupervised Learning::Clustering::49,9,3,6
+9,Unsupervised Learning::More Clustering::50,6,7,34
+9,GitHub Profile Review::GitHub Profile Review::51,17,4,11
+9,Unsupervised Learning::Clustering Mini-Project::51,3,3,10
+9,GitHub Profile Review::GitHub Profile Review::52,17,4,11
+9,Unsupervised Learning::Feature Scaling::52,3,2,7
+9,Unsupervised Learning::Feature Selection::53,6,3,18
+9,Unsupervised Learning::PCA::54,2,4,13
+9,Unsupervised Learning::PCA Mini-Project::55,3,2,8
+9,Unsupervised Learning::Feature Transformation::56,4,4,18
+9,Unsupervised Learning::Outro::57,1,,4
+9,Unsupervised Learning::Project Details::58,16,16,70
+10,Reinforcement Learning::Introduction to Reinforcement Learning::52,9,1,9
+10,Reinforcement Learning::Markov Decision Processes::53,30,19,45
+10,Reinforcement Learning::Introduction to Reinforcement Learning::53,9,1,9
+10,Reinforcement Learning::Reinforcement Learning::54,14,14,42
+10,Reinforcement Learning::Markov Decision Processes::54,30,19,45
+10,Reinforcement Learning::Game Theory::55,14,10,29
+10,Reinforcement Learning::Reinforcement Learning::55,14,14,42
+10,Reinforcement Learning::Project Details::56,41,36,128
+10,Reinforcement Learning::Game Theory::56,14,10,29
+10,Reinforcement Learning::Project Details::57,41,36,128
+10,GitHub Profile Review::GitHub Profile Review::59,17,4,11
+11,LinkedIn Profile Review::LinkedIn Profile Review::57,16,3,19
+11,LinkedIn Profile Review::LinkedIn Profile Review::58,16,3,19
+11,Reinforcement Learning::Introduction to Reinforcement Learning::60,9,1,9
+11,Reinforcement Learning::Markov Decision Processes::61,30,19,45
+11,Reinforcement Learning::Reinforcement Learning::62,14,14,42
+11,Reinforcement Learning::Game Theory::63,14,10,29
+11,Reinforcement Learning::Project Details::64,41,36,128
+12,Machine Learning Specializations::Introduction to Specializations::58,6,4,31
+12,Deep Learning::Deep Learning::59,1,,
+12,Machine Learning Specializations::Introduction to Specializations::59,6,4,31
+12,Deep Learning::Software and Tools::60,1,,3
+12,Deep Learning::From Machine Learning to Deep Learning::61,6,,5
+12,Deep Learning::Assignment: notMNIST::62,,1,
+12,Deep Learning::Deep Neural Networks::63,,,2
+12,Deep Learning::Convolutional Neural Networks::64,1,,
+12,Deep Learning::Deep Models for Text and Sequences::65,,,2
+12,LinkedIn Profile Review::LinkedIn Profile Review::65,16,3,19
+12,Deep Learning::Project Details::66,3,,1
+13,Capstone Proposal::Project Details::59,3,3,90
+13,Capstone Proposal::Project Details::60,3,3,90
+13,Deep Learning::Deep Learning::66,1,,
+13,Machine Learning Specializations::Introduction to Specializations::67,6,4,31
+13,Deep Learning::Software and Tools::67,1,,3
+13,Deep Learning::From Machine Learning to Deep Learning::68,6,,5
+13,Deep Learning::Assignment: notMNIST::69,,1,
+13,Deep Learning::Deep Neural Networks::70,,,2
+13,Deep Learning::Convolutional Neural Networks::71,1,,
+13,Deep Learning::Deep Models for Text and Sequences::72,,,2
+13,Deep Learning::Project Details::73,3,,1
+14,Capstone Project::Project Details::60,30,44,185
+14,Capstone Project::Project Details::61,30,44,185
+14,Capstone Proposal::Project Details::68,3,3,90
+14,Machine Learning Specializations::Introduction to Specializations::74,6,4,31
+15,Udacity Professional Profile Review::Udacity Professional Profile Review::61,2,1,10
+15,Udacity Professional Profile Review::Udacity Professional Profile Review::62,2,1,10
+15,Capstone Project::Project Details::69,30,44,185
+15,Capstone Proposal::Project Details::75,3,3,90
+16,Technical Interview Practice::Introduction and Efficiency::62,11,2,8
+16,Technical Interview Practice::List-Based Collections::63,3,1,7
+16,Technical Interview Practice::Introduction and Efficiency::63,11,2,8
+16,Technical Interview Practice::Searching and Sorting::64,7,1,7
+16,Technical Interview Practice::List-Based Collections::64,3,1,7
+16,Technical Interview Practice::Searching and Sorting::65,7,1,7
+16,Technical Interview Practice::Maps and Hashing::65,,1,1
+16,Technical Interview Practice::Trees::66,2,2,5
+16,Technical Interview Practice::Maps and Hashing::66,,1,1
+16,Technical Interview Practice::Trees::67,2,2,5
+16,Technical Interview Practice::Graphs::67,1,,4
+16,Technical Interview Practice::Case Studies in Algorithms::68,1,1,1
+16,Technical Interview Practice::Graphs::68,1,,4
+16,Technical Interview Practice::Case Studies in Algorithms::69,1,1,1
+16,Technical Interview Practice::Technical Interviewing Techniques::69,3,1,
+16,Udacity Professional Profile Review::Udacity Professional Profile Review::70,2,1,10
+16,Technical Interview Practice::Technical Interviewing Techniques::70,3,1,
+16,Technical Interview Practice::Project Prep::70,7,5,12
+16,Technical Interview Practice::Project Prep::71,7,5,12
+16,Capstone Project::Project Details::76,30,44,185
+17,ML Interview Practice::Getting an Interview::71,8,,6
+17,Technical Interview Practice::Introduction and Efficiency::71,11,2,8
+17,ML Interview Practice::Getting an Interview::72,8,,6
+17,Technical Interview Practice::List-Based Collections::72,3,1,7
+17,ML Interview Practice::What to Expect at an Interview::72,1,1,2
+17,ML Interview Practice::Practice Behavioral Questions::73,,,4
+17,ML Interview Practice::What to Expect at an Interview::73,1,1,2
+17,Technical Interview Practice::Searching and Sorting::73,7,1,7
+17,ML Interview Practice::Practice Behavioral Questions::74,,,4
+17,Technical Interview Practice::Maps and Hashing::74,,1,1
+17,ML Interview Practice::ML Mock Interview::74,4,6,8
+17,Technical Interview Practice::Trees::75,2,2,5
+17,ML Interview Practice::ML Mock Interview::75,4,6,8
+17,ML Interview Practice::Interview Fails::75,1,,1
+17,ML Interview Practice::After the Interview::76,,2,
+17,ML Interview Practice::Interview Fails::76,1,,1
+17,Technical Interview Practice::Graphs::76,1,,4
+17,Udacity Professional Profile Review::Udacity Professional Profile Review::77,2,1,10
+17,ML Interview Practice::After the Interview::77,,2,
+17,Technical Interview Practice::Case Studies in Algorithms::77,1,1,1
+17,ML Interview Practice::ML Interview Dry-Run Review::77,8,4,9
+17,Technical Interview Practice::Technical Interviewing Techniques::78,3,1,
+17,ML Interview Practice::ML Interview Dry-Run Review::78,8,4,9
+17,Technical Interview Practice::Project Prep::79,7,5,12
+18,Technical Interview Practice::Introduction and Efficiency::78,11,2,8
+18,Technical Interview Practice::List-Based Collections::79,3,1,7
+18,ML Interview Practice::Getting an Interview::80,8,,6
+18,Technical Interview Practice::Searching and Sorting::80,7,1,7
+18,ML Interview Practice::What to Expect at an Interview::81,1,1,2
+18,Technical Interview Practice::Maps and Hashing::81,,1,1
+18,Technical Interview Practice::Trees::82,2,2,5
+18,ML Interview Practice::Practice Behavioral Questions::82,,,4
+18,ML Interview Practice::ML Mock Interview::83,4,6,8
+18,Technical Interview Practice::Graphs::83,1,,4
+18,Technical Interview Practice::Case Studies in Algorithms::84,1,1,1
+18,ML Interview Practice::Interview Fails::84,1,,1
+18,ML Interview Practice::After the Interview::85,,2,
+18,Technical Interview Practice::Technical Interviewing Techniques::85,3,1,
+18,Technical Interview Practice::Project Prep::86,7,5,12
+18,ML Interview Practice::ML Interview Dry-Run Review::86,8,4,9
+19,ML Interview Practice::Getting an Interview::87,8,,6
+19,ML Interview Practice::What to Expect at an Interview::88,1,1,2
+19,ML Interview Practice::Practice Behavioral Questions::89,,,4
+19,ML Interview Practice::ML Mock Interview::90,4,6,8
+19,ML Interview Practice::Interview Fails::91,1,,1
+19,ML Interview Practice::After the Interview::92,,2,
+19,ML Interview Practice::ML Interview Dry-Run Review::93,8,4,9
